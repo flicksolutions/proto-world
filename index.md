@@ -9,3 +9,47 @@ Seit dem 17. Jahrhundert, als Marcus Zuerius van Boxhorn, ein niederländischer 
 
 ## Referenzen
 
+<div id="refs" class="references hanging-indent" role="doc-bibliography">
+<div id="ref-bengtsonGlobalEtymologies1994">
+<p>Bengtson, John &amp; Ruhlen, Merritt (1994). Global Etymologies. In: <em>On the origin of languages: studies in linguistic taxonomy</em>. Stanford, Calif: Stanford University Press. S. 277–336.</p>
+</div>
+<div id="ref-campbellHistoricalLinguisticsIntroduction2013">
+<p>Campbell, Lyle (2013). OCLC: 840417577. <em>Historical linguistics: an introduction</em>. 3. ed. Edinburgh: Edinburgh Univ. Press.</p>
+</div>
+<div id="ref-campbellHowShowLanguages2003">
+<p>Campbell, Lyle (2003). How to show languages are related: methods for distant genetic relationship. In: B. Joseph &amp; R. D. Janda (Hrsg.). <em>The handbook of historical linguistics</em>. Malden, MA: Blackwell Pub. S. 262–282.</p>
+</div>
+<div id="ref-campbellLanguageClassificationHistory2008">
+<p>Campbell, Lyle &amp; Poser, William John (2008). OCLC: ocn182963187. <em>Language classification: history and method</em>. Cambridge, UK ; New York: Cambridge University Press.</p>
+</div>
+<div id="ref-gell-mannOriginEvolutionWord2011">
+<p>Gell-Mann, Murray &amp; Ruhlen, Merritt (2011). <em>The origin and evolution of word order</em>. 108 / 42. S. 17290–17295.</p>
+</div>
+<div id="ref-greenbergLanguagesAfrica1963">
+<p>Greenberg, Joseph (1963). <em>The languages of Africa</em>. Bloomington: Indiana University.</p>
+</div>
+<div id="ref-greenbergLanguageAmericas1987">
+<p>Greenberg, Joseph H. (1987). <em>Language in the Americas</em>. Stanford, Calif: Stanford University Press.</p>
+</div>
+<div id="ref-greenbergGeneralClassificationCentral1960">
+<p>Greenberg, Joseph H. (1960). The General Classification of Central and South American Languages. In: A. F. C. Wallace (Hrsg.). <em>Men and Cultures</em>. [Online]. Philadelphia: University of Pennsylvania Press. S. 791–794. (<a href="https://www.degruyter.com/doi/10.9783/9781512819526-121">https://www.degruyter.com/doi/10.9783/9781512819526-121</a>). [Zugegriffen: 6.10.2020].</p>
+</div>
+<div id="ref-millarTraskHistoricalLinguistics2015a">
+<p>Millar, Robert McColl (Hrsg.) (2015). <em>Trask’s historical linguistics</em>. 3rd Edition. New York: Routledge.</p>
+</div>
+<div id="ref-ringeReplyProfessorGreenberg1993">
+<p>Ringe, Donald A. (1993). A reply to professor Greenberg. In: <em>Proceedings of the American Philosophical Society</em>. 137 / 1. S. 91–109.</p>
+</div>
+<div id="ref-ringeHowHardIt1999">
+<p>Ringe, Donald A. (1999). <em>How hard is it to match CVC-roots?</em> In: Transactions of the Philological Society. S. 213–244.</p>
+</div>
+<div id="ref-ringeCalculatingFactorChance1992">
+<p>Ringe, Donald A. (1992). <em>On calculating the factor of chance in language comparison</em>. Transactions of the American Philosophical Society v. 82, pt. 1. Philadelphia, Pa: American Philosophical Society.</p>
+</div>
+<div id="ref-ruhlenNewPerspectivesOrigin2008">
+<p>Ruhlen, Merritt (2008). New perspectives on the origin of languages. In: <em>Origin and evolution of languages: approaches, models, paradigms</em>. London; Oakville, CT: Equinox. S. 241–256.</p>
+</div>
+<div id="ref-ruhlenOriginLanguagesStudies1994">
+<p>Ruhlen, Merritt (1994). <em>On the origin of languages: studies in linguistic taxonomy</em>. Stanford, Calif: Stanford University Press.</p>
+</div>
+</div>
