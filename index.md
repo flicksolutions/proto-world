@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
+## **Proto-World:** Eine Analyse der Argumentation für und gegen die Möglichkeit einer Rekonstruktion von Proto-World
 
-You can use the [editor on GitHub](https://github.com/SaraSchindler/proto-world/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Seit dem 17. Jahrhundert, als Marcus Zuerius van Boxhorn, ein niederländischer Gelehrter und Professor in Leiden, erstmals eine genealogische Theorie über den gemeinsamen Ursprung einer Sprachfamilie mit den lateinischen, griechischen, germanischen, slawischen, keltischen, baltischen und indo-iranischen Sprachen postulierte, haben sich Linguisten mit der Geschichte von Sprachen befasst. Diese von van Boxhorn postulierte Sprachfamilie, welche er selbst *Skythisch* nannte, ist heute unter dem Namen *Indogermanisch* bekannt. Seit dieser Zeit wurden viele weiter Sprachfamilien gefunden und teilweise rekonstruiert (z.B. Uralisch, Austronesisch, Transhimalajisch oder Niger-Kongo). Zur Rekonstruktion der jeweiligen Proto-Sprachen wird traditionell die komparative Methode verwendet, eine Methode, die es, basierend auf systematischen und wiederkehrenden Lautentsprechungen zwischen den verwandten Sprachen, erlaubt, wahrscheinliche Lautwandel zu erkennen. So ist es dann möglich, die wahrscheinliche Form des Wortes in der Proto-Sprache zu rekonstruieren. Einige Linguisten, insbesondere Joseph Greenberg und sein Schüler Merritt Ruhlen [vgl. z.B. @greenbergGeneralClassificationCentral1960, @greenbergLanguageAmericas1987, @greenbergLanguagesAfrica1963, @bengtsonGlobalEtymologies1994, @gell-mannOriginEvolutionWord2011, @ruhlenOriginLanguagesStudies1994, @ruhlenNewPerspectivesOrigin2008] sind dann dazu übergegangen, die komparative Methode auf die so rekonstruieren Proto-Sprachen anzuwenden und so noch weiter in die Vergangenheit zu gehen. Ihre Methoden, insbesondere der *multilaterale Vergleich/Massenverglich* werden aber von der grossen Mehrheit der historischen Linguisten [vgl. z.B. @ringeCalculatingFactorChance1992, @ringeReplyProfessorGreenberg1993, @ringeHowHardIt1999, @campbellHowShowLanguages2003, @campbellHistoricalLinguisticsIntroduction2013, @campbellLanguageClassificationHistory2008, @millarTraskHistoricalLinguistics2015a] scharf kritisiert. Die grössten Kritikpunkte sind dabei, dass die Ergebnisse eines multilateralen Vergleichs nicht vom Zufall unterscheidbar sind (alle Sprachen weisen etwa 5%-6% ähnliche Formen im Wortschatz allein durch Zufall auf) und dass die komparative Methode eine maximale zeitliche Tiefe hat, welche zwischen 6'000 und 14'000 Jahren liegt (die Linguisten sind sich bei der genauen Datierung (noch) nicht einig), Proto-World müsste aber wohl mindestens ein paar Zehntausend Jahre alt sein und kann daher nicht mit der komparativen Methode rekonstruiert werden. Neben diesen beiden Kritikpunkten gibt es aber noch einige mehr. Insgesamt läuft die ganze Debatte um die Möglichkeit einer Rekonstruktion von Proto-World nun schon einige Jahre und die Argumentationsstruktur ist relativ komplex geworden. Um hier etwas mehr Klarheit zu schaffen, sollen die wichtigsten der vorgebrachten Argumente, sowohl der Kritiker als auch der Befürworter einer solchen Möglichkeit, hier in Argumentform präsentiert und schliesslich in einer Argumentkarte, welche mit *Argdown* auf Basies der vorgestellten Argumente, erstellt wurde, veranschaulicht werden. Dabei wurden einige Argumente der Kritiker nicht in die Karte aufgenommen und werden auch nicht in Argumentform präsentiert, da sie keine komplexen Beziehungen zu anderen Argumenten aufweisen. Es handelt sich hier um Argumente wie, dass die verwendeten Formen zu kurz sind, die Daten Fehler enthalten oder Lautsymbolismus nicht ausgeschlossen wird. Natürlich sind auch diese Argumente wichtig und ich will hier nicht den Eindruck vermitteln, dass man sie einfach vernachlässigen kann. Der einzige Grund, weshalb ich sie hier nicht aufführe, ist, dass eine Darstellung in einer Argumentkarte in diesen Fällen nicht zum Verständnis der Argumentation beiträgt. Diese Argumente können in Campbell&Poser (2008) nachgelesen werden.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[Hier geht es zur Rekonstruktion der Argumente] (https://saraschindler.github.io/proto-world/html/Argdown.html#argument-gemeinsamer-ursprung-aller-sprachen)
 
-### Markdown
+[Hier geht es zur Argumentkarte] (https://saraschindler.github.io/proto-world/html/Argdown.component.html)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+### Referenzen
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SaraSchindler/proto-world/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
