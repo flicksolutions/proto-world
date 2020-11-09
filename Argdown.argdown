@@ -8,71 +8,71 @@ map:
 
 <gemeinsamer Ursprung aller Sprachen>
 
-(1) [K14]: die von den long rangern gefundenen Ähnlichkeiten können nur  auf einen gemeinsamen Ursprung zurückgeführt werden
-(2) P1: bei den long-range-Vergleichen wurden Ähnlichkeiten zwischen allen Sprachfamilien der Welt gefunden
+(1) [K8]: die von den long rangern gefundenen Ähnlichkeiten können nur  auf einen gemeinsamen Ursprung zurückgeführt werden
+(2) P18: bei den long-range-Vergleichen wurden Ähnlichkeiten zwischen allen Sprachfamilien der Welt gefunden
 -----
-(3) [K24]: Alle Sprachen der Welt sind miteinander verwandt
+(3) [K9]: Alle Sprachen der Welt sind miteinander verwandt
 
 
 <Monogenese>
 
-(1) [K24] 
+(1) [K9] 
 (2) Dass alle Sprachen miteinander verwandt sind, kann am besten dadurch erklärt werden, dass Sprache nur einmal entstanden ist und sich alle heute bekannten Sprache daraus entwickelten (implizite Annahme, Quelle finden)
 ------
-(3) [K15]: Sprache ist nur einmal entstanden
+(3) [K10]: Sprache ist nur einmal entstanden
 
 
 <higher-level> {isInMap: false}
 
-(1) [K15]
-(2) P2: Im Verlauf ihrer Entwicklung veränderte sich diese Ursprache zu unterschiedlichen Dialekten und schliesslich zu unterschiedlichen Sprachen, bis die heute vorliegende Vielfalt entstanden ist (Quelle)
-(3) P3: Ältere Sprachstufen sind der gemeinsamen Ursprache ähnlicher als neuere Sprachstufen, da sie sich noch weniger stark verändert haben (Quelle)
+(1) [K10]
+(2) P: Im Verlauf ihrer Entwicklung veränderte sich diese Ursprache zu unterschiedlichen Dialekten und schliesslich zu unterschiedlichen Sprachen, bis die heute vorliegende Vielfalt entstanden ist (Quelle)
+(3) P: Ältere Sprachstufen sind der gemeinsamen Ursprache ähnlicher als neuere Sprachstufen, da sie sich noch weniger stark verändert haben (Quelle)
 ----------
-(4) [K16]: angeblich unabhängige, higher-level Gruppen (z.B. Indo-Europäisch, Australisch, Amerindisch) können Kognate teilen, die in Form und Bedeutung ähnlich sind (Ruhlen 1994: 270)
+(4) [K]: angeblich unabhängige, higher-level Gruppen (z.B. Indo-Europäisch, Australisch, Amerindisch) können Kognate teilen, die in Form und Bedeutung ähnlich sind (Ruhlen 1994: 270)
 
 
 <keine Entlehnungen verwenden>
 
-(1) P1: Um Sprachen klassifizieren zu können, ist nur genealogische Verwandtschaft entscheidend (Quelle)
-(2) P2: Entlehnte Wörter sagen nichts über eine mögliche genealogische Verwandtschaft zwischen den betroffenen Sprachen aus (Quelle)
+(1) P9: Um Sprachen klassifizieren zu können, ist nur genealogische Verwandtschaft entscheidend (Quelle)
+(2) P10: Entlehnte Wörter sagen nichts über eine mögliche genealogische Verwandtschaft zwischen den betroffenen Sprachen aus (Quelle)
 ------
-(3) [K10]: Entlehnungen dürfen nicht verwendet werden, um eine Sprache zu klassifizieren
+(3) [K4]: Entlehnungen dürfen nicht verwendet werden, um eine Sprache zu klassifizieren
 
 
 <keine zufälligen Ähnlichkeiten verwenden>
 
-(1) P1: Um Sprachen klassifizieren zu können, ist nur genealogische Verwandtschaft entscheidend (Quelle)
-(2) P2: Zufällige Ähnlichkeiten sagen nichts über eine mögliche genealogische Verwandtschaft zwischen den betroffenen Sprachen aus (Quelle)
+(1) P13: Um Sprachen klassifizieren zu können, ist nur genealogische Verwandtschaft entscheidend (Quelle)
+(2) P14: Zufällige Ähnlichkeiten sagen nichts über eine mögliche genealogische Verwandtschaft zwischen den betroffenen Sprachen aus (Quelle)
 ------
-(3) [K11]: Zufällige Ähnlichkeiten dürfen nicht verwendet werden, um eine Sprache zu klassifizieren
+(3) [K6]: Zufällige Ähnlichkeiten dürfen nicht verwendet werden, um eine Sprache zu klassifizieren
 
 
 <Ausschluss Entlehnung>
 
-(1) [P3]: Der Grundwortschatz  der Sprachen ist Entlehnungen gegenüber sehr resistent, d.h. der Grundwortschatz wird nie entlehnt (Bengtson & Ruhlen 1994: S. 279)
-(2) P2: bei Mass comparison werden nur Elemente des Grundwortschatzes miteinander verglichen (Quelle)
+(1) [P11]: Der Grundwortschatz  der Sprachen ist Entlehnungen gegenüber sehr resistent, d.h. der Grundwortschatz wird nie entlehnt (Bengtson & Ruhlen 1994: S. 279)
+(2) P12: bei Mass comparison werden nur Elemente des Grundwortschatzes miteinander verglichen (Quelle)
     >< [K25]
 -----
-(3) [K12]: Ähnlichkeiten zwischen Sprachen, die durch Mass Comparison aufgedeckt werden, sind nicht auf Entlehnungen zurückzuführen
+(3) [K5]: Ähnlichkeiten zwischen Sprachen, die durch Mass Comparison aufgedeckt werden, sind nicht auf Entlehnungen zurückzuführen
 
 
 <Ausschluss zufälliger Ähnlichkeiten>
 
-(1) P1: Je kleiner das Datenset ist, desto unwahrscheinlicher sind zufällige Ähnlichkeiten , d.h. Konvergenz (Quelle)
-(2) [P1]: Bei der Mass Comparison werden Daten von weniger als drei Dutzend Sprachfamilien miteinander verglichen, d.h. das Datenset ist ziemlich klein (Bengtson & Ruhlen 1994: S. 280–281)
+(1) P15: Je kleiner das Datenset ist, desto unwahrscheinlicher sind zufällige Ähnlichkeiten , d.h. Konvergenz (Quelle)
+(2) [P16]: Bei der Mass Comparison werden Daten von weniger als drei Dutzend Sprachfamilien miteinander verglichen, d.h. das Datenset ist ziemlich klein (Bengtson & Ruhlen 1994: S. 280–281)
 -----
-(3) [K13]: Ähnlichkeiten zwischen Sprachen, die durch Mass Comparison aufgedeckt werden, sind sehr wahrscheinlich nicht auf Konvergenz zurückzuführen
+(3) [K7]: Ähnlichkeiten zwischen Sprachen, die durch Mass Comparison aufgedeckt werden, sind sehr wahrscheinlich nicht auf Konvergenz zurückzuführen
 
 
 <Gemeinsamer Ursprung aller Formen>
 
-(1) P1: Ähnlichkeiten zwischen Sprachen können genau drei Ursachen haben: Konvergenz (Zufall), Entlehnung oder gemeinsamer Ursprung (Bengtson & Ruhlen 1994: 278, Ruhlen 1994: 39)
-(2) [K10]
-(3) [K11]
-(4) [K12]
-(5) [K13]
+(1) P17: Ähnlichkeiten zwischen Sprachen können genau drei Ursachen haben: Konvergenz (Zufall), Entlehnung oder gemeinsamer Ursprung (Bengtson & Ruhlen 1994: 278, Ruhlen 1994: 39)
+(2) [K4]
+(3) [K6]
+(4) [K5]
+(5) [K7]
 ------
-(6) [K14]: die gefundenen Ähnlichkeiten in den Formen können nur  auf einen gemeinsamen Ursprung der Formen zurückgeführt werden
+(6) [K8]: die gefundenen Ähnlichkeiten in den Formen können nur  auf einen gemeinsamen Ursprung der Formen zurückgeführt werden
 
 
 <mehr Sprachen = weniger Zufall>
@@ -90,7 +90,7 @@ map:
     >< [K19]
 (2) P2: Ein Datenset, welches 5'000 Sprachen umfasst, ist sehr gross (Campbell 1988??)
 (3) P3: bei der mass comprarison werden Datensets von mehr als 5'000 Sprachen verwendet
-    >< [P1]
+    >< [P16]
 -----
 (3) [K32]: Die bei der mass comparison gefundenen Ähnlichkeiten können zufällige Ähnlichkeiten sein, keine Hinweise auf einen gemeinsamen Ursprung
     >< [K13]
@@ -143,7 +143,7 @@ map:
 (1) Es gibt attestierte Fälle, in denen Elemente des Grundwortschatzes entlehnt wurden
 ----
 (2) [K20]: Elemente des Grundwortschatzes können entlehnt werden
-    >< [P3]
+    >< [P11]
 
 
 <keine maximale zeitliche Tiefe der komparativen Methode>
@@ -176,7 +176,7 @@ map:
 (1) [K21]: Long-range-Theorien basieren auf der komparativen Methode
 (2) P1: die Semantik wird nicht zu weit gefasst (Bengtson & Ruhlen 1994: S. 289)
 (3) P2: Eventuelle fehlerhafte Daten sind vernachlässigbar und können das Endresultat nicht in Zweifel ziehen (Bengtson & Ruhlen 1994: S. 289–290) 
-(4) [K12]: Entlehnung kann ausgeschlossen werden
+(4) [K5]: Entlehnung kann ausgeschlossen werden
 (5) [K13]: Zufällige Ähnlichkeit kann ausgeschlossen werden
 (6) Die Theorie genügt wissenschaftlichen Standards
     >< [K4]
@@ -197,7 +197,7 @@ map:
 (1) P1: die long ranger vergleichen viele Wörter wie ‘Arm’, ‘Loch’ oder ‘bleiben’
 (2) P2: Wörter wie ‘Arm’, ‘Loch’ oder ‘bleiben’ stehen nicht auf den Swadesh-Listen
 -----
-(3) [K25]: Long ranger vergleichen auch Wörter, die nicht auf den Swadesh-Listen stehen 
+(3) [K25]: Long-ranger vergleichen auch Wörter, die nicht auf den Swadesh-Listen stehen 
 
 
 <Berechnung der Wahrscheinlichkeit für Zufall mittels Wahrscheinlichkeitstheorie>
