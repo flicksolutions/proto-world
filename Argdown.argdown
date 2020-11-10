@@ -6,10 +6,56 @@ map:
     statementLabelMode: text
 ===
 
+
+
+<keine Entlehnungen verwenden>
+
+(1) P9: Um Sprachen klassifizieren zu können, ist nur genealogische Verwandtschaft entscheidend
+(2) P10: Entlehnte Wörter sagen nichts über eine mögliche genealogische Verwandtschaft zwischen den betroffenen Sprachen aus
+------
+(3) [K4]: Entlehnungen dürfen nicht verwendet werden, um eine Sprache zu klassifizieren
+
+
+<Ausschluss Entlehnung>
+
+(1) [P11]: Der Grundwortschatz  der Sprachen ist Entlehnungen gegenüber sehr resistent, d.h. der Grundwortschatz wird nie entlehnt (Bengtson & Ruhlen 1994: S. 279)
+(2) P12: Bei Mass comparison werden nur Elemente des Grundwortschatzes miteinander verglichen
+    >< [K25]
+-----
+(3) [K5]: Ähnlichkeiten zwischen Sprachen, die durch Mass Comparison aufgedeckt werden, sind nicht auf Entlehnungen zurückzuführen (vgl. Ruhlen 1994: S. 42–43; Bengtson & Ruhlen 1994: S. 279)
+
+
+<keine zufälligen Ähnlichkeiten verwenden>
+
+(1) P13: Um Sprachen klassifizieren zu können, ist nur genealogische Verwandtschaft entscheidend 
+(2) P14: Zufällige Ähnlichkeiten sagen nichts über eine mögliche genealogische Verwandtschaft zwischen den betroffenen Sprachen aus
+------
+(3) [K6]: Zufällige Ähnlichkeiten dürfen nicht verwendet werden, um eine Sprache zu klassifizieren
+
+
+<Ausschluss zufälliger Ähnlichkeiten>
+
+(1) P15: Je kleiner das Datenset ist, desto unwahrscheinlicher sind zufällige Ähnlichkeiten , d.h. Konvergenz (vg. Ruhlen 1994: 280-281)
+(2) [P16]: Bei der Mass Comparison werden Daten von weniger als drei Dutzend Sprachfamilien miteinander verglichen, d.h. das Datenset ist ziemlich klein (vgl. Bengtson & Ruhlen 1994: S. 280–281)
+-----
+(3) [K7]: Ähnlichkeiten zwischen Sprachen, die durch Mass Comparison aufgedeckt werden, sind sehr wahrscheinlich nicht auf Konvergenz zurückzuführen
+
+
+<Gemeinsamer Ursprung aller Formen>
+
+(1) P17: Ähnlichkeiten zwischen Sprachen können genau drei Ursachen haben: Konvergenz (Zufall), Entlehnung oder gemeinsamer Ursprung (vgl. Bengtson & Ruhlen 1994: 278, Ruhlen 1994: 39)
+(2) [K4]
+(3) [K6]
+(4) [K5]
+(5) [K7]
+------
+(6) [K8]: Die gefundenen Ähnlichkeiten in den Formen können nur  auf einen gemeinsamen Ursprung der Formen zurückgeführt werden
+
+
 <gemeinsamer Ursprung aller Sprachen>
 
-(1) [K8]: die von den long rangern gefundenen Ähnlichkeiten können nur  auf einen gemeinsamen Ursprung zurückgeführt werden
-(2) P18: bei den long-range-Vergleichen wurden Ähnlichkeiten zwischen allen Sprachfamilien der Welt gefunden
+(1) [K8]: Die von den Long-rangern gefundenen Ähnlichkeiten können nur  auf einen gemeinsamen Ursprung zurückgeführt werden
+(2) P18: Bei den Long-range-Vergleichen wurden Ähnlichkeiten zwischen allen Sprachfamilien der Welt gefunden
 -----
 (3) [K9]: Alle Sprachen der Welt sind miteinander verwandt
 
@@ -17,7 +63,7 @@ map:
 <Monogenese>
 
 (1) [K9] 
-(2) Dass alle Sprachen miteinander verwandt sind, kann am besten dadurch erklärt werden, dass Sprache nur einmal entstanden ist und sich alle heute bekannten Sprache daraus entwickelten (implizite Annahme, Quelle finden)
+(2) P19: Dass alle Sprachen miteinander verwandt sind, kann am besten dadurch erklärt werden, dass Sprache nur einmal entstanden ist und sich alle heute bekannten Sprache daraus entwickelten
 ------
 (3) [K10]: Sprache ist nur einmal entstanden
 
@@ -25,186 +71,174 @@ map:
 <higher-level> {isInMap: false}
 
 (1) [K10]
-(2) P: Im Verlauf ihrer Entwicklung veränderte sich diese Ursprache zu unterschiedlichen Dialekten und schliesslich zu unterschiedlichen Sprachen, bis die heute vorliegende Vielfalt entstanden ist (Quelle)
-(3) P: Ältere Sprachstufen sind der gemeinsamen Ursprache ähnlicher als neuere Sprachstufen, da sie sich noch weniger stark verändert haben (Quelle)
+(2) P: Im Verlauf ihrer Entwicklung veränderte sich diese Ursprache zu unterschiedlichen Dialekten und schliesslich zu unterschiedlichen Sprachen, bis die heute vorliegende Vielfalt entstanden ist
+(3) P: Ältere Sprachstufen sind der gemeinsamen Ursprache ähnlicher als neuere Sprachstufen, da sie sich noch weniger stark verändert haben
 ----------
-(4) [K]: angeblich unabhängige, higher-level Gruppen (z.B. Indo-Europäisch, Australisch, Amerindisch) können Kognate teilen, die in Form und Bedeutung ähnlich sind (Ruhlen 1994: 270)
+(4) [K]: angeblich unabhängige, higher-level Gruppen (z.B. Indo-Europäisch, Australisch, Amerindisch) können Kognate teilen, die in Form und Bedeutung ähnlich sind (vgl. Ruhlen 1994: 270)
 
 
-<keine Entlehnungen verwenden>
+<Notwendigkeit systematischer Lautentsprechungen>
 
-(1) P9: Um Sprachen klassifizieren zu können, ist nur genealogische Verwandtschaft entscheidend (Quelle)
-(2) P10: Entlehnte Wörter sagen nichts über eine mögliche genealogische Verwandtschaft zwischen den betroffenen Sprachen aus (Quelle)
-------
-(3) [K4]: Entlehnungen dürfen nicht verwendet werden, um eine Sprache zu klassifizieren
-
-
-<keine zufälligen Ähnlichkeiten verwenden>
-
-(1) P13: Um Sprachen klassifizieren zu können, ist nur genealogische Verwandtschaft entscheidend (Quelle)
-(2) P14: Zufällige Ähnlichkeiten sagen nichts über eine mögliche genealogische Verwandtschaft zwischen den betroffenen Sprachen aus (Quelle)
-------
-(3) [K6]: Zufällige Ähnlichkeiten dürfen nicht verwendet werden, um eine Sprache zu klassifizieren
-
-
-<Ausschluss Entlehnung>
-
-(1) [P11]: Der Grundwortschatz  der Sprachen ist Entlehnungen gegenüber sehr resistent, d.h. der Grundwortschatz wird nie entlehnt (Bengtson & Ruhlen 1994: S. 279)
-(2) P12: bei Mass comparison werden nur Elemente des Grundwortschatzes miteinander verglichen (Quelle)
-    >< [K25]
+(1) P20: Um die genealogische Verwandtschaft zwischen einem Paar oder einer Menge von Sprachen beweisen zu können, müssen wir eine Möglichkeit haben, zufällige Ähnlichkeiten und Entlehnung von vererbten Ähnlichkeiten unterscheiden zu können (vgl. Campbell 2013; Millar 2015)
+(2) [P21]: Systematische Lautentsprechungen kommen nur zwischen genealogisch verwandten Sprachen vor  (vgl. Millar 2015: S. 207; Campbell & Poser 2008: S. 193–194) 
+(3) P22: Unsystematische Lautentsprechungen können zwischen allen Paaren oder Mengen von Sprachen gefunden werden , auch wenn diese nicht verwandt sind  (vgl. Thomason 1988, Ruhlen 1994: 30)
 -----
-(3) [K5]: Ähnlichkeiten zwischen Sprachen, die durch Mass Comparison aufgedeckt werden, sind nicht auf Entlehnungen zurückzuführen
+(4) [K11]: Systematische Lautentsprechungen beweisen genealogische Verwandtschaft. 
 
 
-<Ausschluss zufälliger Ähnlichkeiten>
+<Long-range-Vergleiche können Verwandtschaft nicht beweisen>
 
-(1) P15: Je kleiner das Datenset ist, desto unwahrscheinlicher sind zufällige Ähnlichkeiten , d.h. Konvergenz (Quelle)
-(2) [P16]: Bei der Mass Comparison werden Daten von weniger als drei Dutzend Sprachfamilien miteinander verglichen, d.h. das Datenset ist ziemlich klein (Bengtson & Ruhlen 1994: S. 280–281)
------
-(3) [K7]: Ähnlichkeiten zwischen Sprachen, die durch Mass Comparison aufgedeckt werden, sind sehr wahrscheinlich nicht auf Konvergenz zurückzuführen
-
-
-<Gemeinsamer Ursprung aller Formen>
-
-(1) P17: Ähnlichkeiten zwischen Sprachen können genau drei Ursachen haben: Konvergenz (Zufall), Entlehnung oder gemeinsamer Ursprung (Bengtson & Ruhlen 1994: 278, Ruhlen 1994: 39)
-(2) [K4]
-(3) [K6]
-(4) [K5]
-(5) [K7]
+(1) [K11]
+(2) P23: Long-range-Vergleiche sind nicht auf systematische, sondern auf unsystematische Lautentsprechungen gestützt
 ------
-(6) [K8]: die gefundenen Ähnlichkeiten in den Formen können nur  auf einen gemeinsamen Ursprung der Formen zurückgeführt werden
+(3) [K12]: Long-range-Vergleiche können keine genealogische Verwandtschaft zwischen Sprachen beweisen
+    >< [K16]
+
+
+<systematische Lautensprechungen können Lehnwörter nicht aufdecken>
+
+(1) P24: Oft gehorchen Lehnwörter den gleichen phonologischen Regeln wie ein natives Wort, d.h. sie weisen die gleichen systematischen Lautentsprechungen auf (vgl. Campbell & Poser 2008: S. 172; Ruhlen 1994: S. 286–287)
+------
+(2) [K13]: Systematische Lautentsprechungen können Lehnwörter nicht in jedem Fall entlarven
+    >< [P21]
+
+
+<keine maximale zeitliche Tiefe der komparativen Methode>
+
+(1) P25: Einige Wörter sind für über 8'000 Jahre lang so gut wie unverändert geblieben (phonetisch und semantisch) (vgl. Bengtson & Ruhlen 1994: S. 289)
+(2) P26: Es gibt keinen Grund anzunehmen, dass diese Lautentsprechungen vor 10'000 Jahren oder mehr anders waren (vgl. Bengtson & Ruhlen 1994: S. 289)
+-----
+(3) [K14]: Die komparative Methode hat keine maximale zeitliche Tiefe
+
+
+<Validität der komparativen Methode für Long-range-Vergleiche>
+
+(1) [K14]
+-----
+(2) [K15]: Die komparative Methode darf für Long-range-Vergleiche verwendet werden
+
+
+<Beweis genealogischer Verwandtschaft>
+
+(1) P27: Mittels der komparativen Methode kann genealogische Verwandtschaft gezeigt werden
+(2) [P28]: Long-ranger arbeiten mit der komparativen Methode
+(3) [K15]
+-----
+(4) [K16]: Long-range-Theorien können genealogische Verwandtschaft zeigen {isCanonical: true}
+    >< [K12]
+
+
+<keine Kognate von Proto-World>
+
+(1) [P29]: Ca. 10'000 Jahre nach der Abspaltung einer Tochtersprache von der Proto-Sprache gibt es keine erkennbaren Kognate mehr in den Tochtersprachen (vgl. Millar 2015: S. 195)
+(2) P30: Die Tochtersprachen von Proto-World haben sich vor mehr als 14'000 Jahren abgespalten (vgl. Campbell & Poser 2008: S. 386–387)
+-----
+(3) [K17]: Heute attestierte Sprachen enthalten keine erkennbaren Kognate von Proto-World
+
+
+<vergleichende Methode nicht für Proto-World anwendbar>
+
+(1) [P31]: Die komparative Methode arbeitet mit Kognaten
+(2) [K17]
+---------
+(3) [K18]: Die komparative Methode kann nicht zur Rekonstruktion von Proto-World verwendet werden
+     >< [K14]
+
+
+<zeitliche Obergrenze der vergleichenden Methode>
+
+(1) [P31]
+(2) [P29]
+----------
+(3) [K19]: Die komparative Methode hat eine zeitliche Obergrenze
+     >< [K14]
+
+
 
 
 <mehr Sprachen = weniger Zufall>
 
-(1) P1: Die Verbindung von Lautbild und Bedeutung ist arbiträr (de Saussure 2005: S. 75)
+(1) P: Die Verbindung von Lautbild und Bedeutung ist arbiträr (vgl. de Saussure 2005: S. 75)
 -----
-(2) [K18]: Konvergenz in der Linguistik ist zufällig  (Ruhlen 1994: S. 40)
+(2) [K180]: Konvergenz in der Linguistik ist zufällig  (vgl. Ruhlen 1994: S. 40)
 -----
-(3) [K19]: Wenn die Anzahl Sprachen, die ein bestimmtes Wort (gleiche Abfolge von Lauten für die gleiche Bedeutung) besitzen, steigt, dann sinkt die Wahrscheinlichkeit einer zufälligen Ähnlichkeit (Ruhlen 1994: S. 40)
+(3) [K190]: Wenn die Anzahl Sprachen, die ein bestimmtes Wort (gleiche Abfolge von Lauten für die gleiche Bedeutung) besitzen, steigt, dann sinkt die Wahrscheinlichkeit einer zufälligen Ähnlichkeit (vgl. Ruhlen 1994: S. 40)
+
+
+<Viele Sprachen = hohe Wahrscheinlichkeit für Zufall>
+
+(1) P: Je mehr Sprachen wir betrachten, desto mehr Möglichkeiten schaffen wir für zufällige Ähnlichkeiten
+----
+(2) [K23]: Wenn die Anzahl Sprachen, die ein bestimmtes Wort (gleiche/ähnliche Abfolge von Lauten für die gleiche/ähnliche Bedeutung) besitzen, steigt, dann steigt auch die Wahrscheinlichkeit einer zufälligen Ähnlichkeit (vgl. Ringe 1992, Millar 2015: 355)
+    >< [K190]
 
 
 <Ähnlichkeiten aus multilateralen Vergleichen sind nicht von Zufall unterschiedbar>
 
 (1) [K23]
-    >< [K19]
-(2) P2: Ein Datenset, welches 5'000 Sprachen umfasst, ist sehr gross (Campbell 1988??)
-(3) P3: bei der mass comprarison werden Datensets von mehr als 5'000 Sprachen verwendet
+    >< [K190]
+(2) P: Ein Datenset, welches 5'000 Sprachen umfasst, ist sehr gross (vgl. Campbell 1988)
+(3) P: Bei der mass comprarison werden Datensets von mehr als 5'000 Sprachen verwendet
     >< [P16]
 -----
 (3) [K32]: Die bei der mass comparison gefundenen Ähnlichkeiten können zufällige Ähnlichkeiten sein, keine Hinweise auf einen gemeinsamen Ursprung
-    >< [K13]
+    >< [K7]
 
 
-<Notwendigkeit systematischer Lautentsprechungen>
-
-(1) P1: Um die genealogische Verwandtschaft zwischen einem Paar oder einer Menge von Sprachen beweisen zu können, müssen wir eine Möglichkeit haben, zufällige Ähnlichkeiten und Entlehnung von vererbten Ähnlichkeiten unterscheiden zu können (Ruhlen Kapitel 14? Oder 2? Campbell? Trask?)
-(2) [P2]: Systematische Lautentsprechungen kommen nur zwischen genealogisch verwandten Sprachen vor  (Trask 2015: S. 207)
-(3) P3: unsystematische Lautentsprechungen können zwischen allen Paaren oder Mengen von Sprachen gefunden werden , auch wenn diese nicht verwandt sind  (Thomason 1988, Ruhlen 1994: 30)
------
-(4) [K1]: Systematische Lautentsprechungen beweisen genealogische Verwandtschaft. 
-
-
-<Long-range-Vergleiche können Verwandtschaft nicht beweisen>
-
-(1) [K1]
-(2) P1: Long-range Vergleiche sind nicht auf systematische, sondern auf unsystematische Lautentsprechungen gestützt
-------
-(3) [K2]: Long-range Vergleiche können keine genealogische Verwandtschaft zwischen Sprachen beweisen  {isInMap: false}
-    >< [K21]
-
-
-<systematische Lehnwörter können Lehnwörter nicht aufdecken>
-
-(1) P1: oft gehorchen Lehnwörter den gleichen phonologischen Regeln wie ein natives Wort, d.h. sie weisen die gleichen systematischen Lautentsprechungen auf (Ruhlen 1994: 286-287)
-------
-(2) [K33]: systematische Lautentsprechungen können Lehnwörter nicht in jedem Fall entlarven
-    >< [P2]
 
 
 <keine Falsifizierbarkeit>
 
-(1) P1:Bengtson&Ruhlen behaupten, alle Sprachen der Welt seien miteinander verwandt (Bengtson&Ruhlen 1994)
-(2) P2: Nicht-Verwandtschaft kann nicht bewiesen werden (Kausen 2014: 1109)
+(1) P:Bengtson&Ruhlen behaupten, alle Sprachen der Welt seien miteinander verwandt (vgl. Bengtson & Ruhlen 1994)
+(2) P: Nicht-Verwandtschaft kann nicht bewiesen werden (vgl. Kausen 2014: 1109)
 -----
-(3) [K3]: die Hypothese, dass alle Sprachen der Welt miteinander verwandt sind, ist nicht falsifizierbar
+(3) [K70]: Die Hypothese, dass alle Sprachen der Welt miteinander verwandt sind, ist nicht falsifizierbar
 
 
 <nicht wissenschaftlich>
 
-(1) P1: Die Ergebnisse einer wissenschaftlichen Theorie müssen falsifizierbar sein (Popper 1934)
-(2) [K3]
+(1) P: Die Ergebnisse einer wissenschaftlichen Theorie müssen falsifizierbar sein (vgl. Popper 1934)
+(2) [K70]
 -----
-(3) [K4]: Die Ergebnisse von mass comparison sind nicht Ergebnisse einer wissenschaftlichen Theorie
+(3) [K40]: Die Ergebnisse von mass comparison sind nicht Ergebnisse einer wissenschaftlichen Theorie
+
+
 
 
 <Entlehnungen im Grundwortschatz>
 
-(1) Es gibt attestierte Fälle, in denen Elemente des Grundwortschatzes entlehnt wurden
+(1) P: Es gibt attestierte Fälle, in denen Elemente des Grundwortschatzes entlehnt wurden (vgl. Campbell & Poser 2008: S. 195)
 ----
 (2) [K20]: Elemente des Grundwortschatzes können entlehnt werden
     >< [P11]
 
 
-<keine maximale zeitliche Tiefe der komparativen Methode>
-
-(1) P1: Einige Wörter sind für über 8'000 Jahre lang so gut wie unverändert geblieben (phonetisch und semantisch) (Bengtson & Ruhlen 1994: S. 289)
-(2) P2: Es gibt keinen Grund anzunehmen, dass diese Lautentsprechungen vor 10'000 Jahren oder mehr anders waren (Bengtson & Ruhlen 1994: S. 289)
------
-(3) [K7]: Die komparative Methode hat keine maximale zeitliche Tiefe
-
-
-<Validität der komparativen Methode für Long-range-Vergleiche>
-
-(1) [K7]
------
-(2) [K8]: Die komparative Methode darf für Long-range-Vergleiche verwendet werden
-
-
-<Beweis genealogischer Verwandtschaft>
-
-(1) P1: Mittels der komparativen Methode kann genealogische Verwandtschaft gezeigt werden
-(2) P2: long ranger arbeiten mit der komparativen Methode
-(3) [K8]
------
-(4) [K21]: Long-range-Theorien können genealogische Verwandtschaft zeigen {isCanonical: true}
-    >< [K2]
-
-
  <valide Methodologie>
 
-(1) [K21]: Long-range-Theorien basieren auf der komparativen Methode
-(2) P1: die Semantik wird nicht zu weit gefasst (Bengtson & Ruhlen 1994: S. 289)
-(3) P2: Eventuelle fehlerhafte Daten sind vernachlässigbar und können das Endresultat nicht in Zweifel ziehen (Bengtson & Ruhlen 1994: S. 289–290) 
+(1) [P28]: Long-range-Theorien basieren auf der komparativen Methode
+(2) P: Die Semantik wird nicht zu weit gefasst (vgl. Bengtson & Ruhlen 1994: S. 289)
+(3) P: Eventuelle fehlerhafte Daten sind vernachlässigbar und können das Endresultat nicht in Zweifel ziehen (Bengtson & Ruhlen 1994: S. 289–290) 
 (4) [K5]: Entlehnung kann ausgeschlossen werden
-(5) [K13]: Zufällige Ähnlichkeit kann ausgeschlossen werden
-(6) Die Theorie genügt wissenschaftlichen Standards
-    >< [K4]
+(5) [K7]: Zufällige Ähnlichkeit kann ausgeschlossen werden
+(6) P: Die Theorie genügt wissenschaftlichen Standards
+    >< [K40]
 -----
-(7) [K22]: Die von den Long-rangern verwendete Methodologie ist in Ordnung
-
-
-<Viele Sprachen = hohe Wahrscheinlichkeit für Zufall>
-
-(1) P1: Je mehr Sprachen wir betrachten, desto mehr Möglichkeiten schaffen wir für zufällige Ähnlichkeiten
-----
-(2) [K23]: Wenn die Anzahl Sprachen, die ein bestimmtes Wort (gleiche/ähnliche Abfolge von Lauten für die gleiche/ähnliche Bedeutung) besitzen, steigt, dann steigt auch die Wahrscheinlichkeit einer zufälligen Ähnlichkeit (Ringe 1992, Millar 2015: 355)
-    >< [K19]
+(7) [K60]: Die von den Long-rangern verwendete Methodologie ist in Ordnung
 
 
 <Wörter nicht aus Grundwortschatz>
 
-(1) P1: die long ranger vergleichen viele Wörter wie ‘Arm’, ‘Loch’ oder ‘bleiben’
-(2) P2: Wörter wie ‘Arm’, ‘Loch’ oder ‘bleiben’ stehen nicht auf den Swadesh-Listen
+(1) P: Die Long-ranger vergleichen viele Wörter wie ‘Arm’, ‘Loch’ oder ‘bleiben’
+(2) P: Wörter wie ‘Arm’, ‘Loch’ oder ‘bleiben’ stehen nicht auf den Swadesh-Listen
 -----
 (3) [K25]: Long-ranger vergleichen auch Wörter, die nicht auf den Swadesh-Listen stehen 
 
 
 <Berechnung der Wahrscheinlichkeit für Zufall mittels Wahrscheinlichkeitstheorie>
 
-(1) P1: Die Verbindung von Lautbild und Bedeutung ist arbiträr (de Saussure 2005: S. 75)
+(1) P: Die Verbindung von Lautbild und Bedeutung ist arbiträr (vgl. de Saussure 2005: S. 75)
 ------
-(2) [K26]: die Verteilung von Lauten in Vokabellisten ist zufällig (Ringe 1992: S. 80)
+(2) [K26]: Die Verteilung von Lauten in Vokabellisten ist zufällig (vgl. Ringe 1992: S. 80)
 -----
 (3) [K27]: Lautähnlichkeiten zwischen synonymen Wörtern verschiedener Sprachen entstehen durch Zufall nach den allgemeinen Gesetzen der Wahrscheinlichkeit; und die Wahrscheinlichkeit, dass eine bestimmte Ähnlichkeit unabhängig von einer historischen Ursache auftritt, lässt sich nach der Wahrscheinlichkeitstheorie berechnen
 
@@ -212,35 +246,9 @@ map:
 <Ähnlichkeiten aus multilateralem Vergleich sind zufällig>
 
 (1) [K27]
-(2) P1: Der Vergleich des Vokabulars mehrerer Sprachen auf einmal ergibt normalerweise ein umfassendes Muster systematischer Ähnlichkeiten, selbst wenn es sich bei den betreffenden Sprachen um künstliche Konstrukte handelt (und damit notwendigerweise nicht verwandt sind). (Ringe 1992: S. 80)
-(3) P2: Eine einfache Anwendung der Wahrscheinlichkeitstheorie zeigt, dass dieses Muster das Ergebnis des Zufalls ist. (Ringe 1992: S. 80)
-(4) P3: Bei multilateralen Vergleichen werden mehrere Sprachen auf einmal miteinander verglichen
+(2) P: Der Vergleich des Vokabulars mehrerer Sprachen auf einmal ergibt normalerweise ein umfassendes Muster systematischer Ähnlichkeiten, selbst wenn es sich bei den betreffenden Sprachen um künstliche Konstrukte handelt (und damit notwendigerweise nicht verwandt sind) (vgl. Ringe 1992: S. 80)
+(3) P: Eine einfache Anwendung der Wahrscheinlichkeitstheorie zeigt, dass dieses Muster das Ergebnis des Zufalls ist (vgl. Ringe 1992: S. 80)
+(4) P: Bei multilateralen Vergleichen werden mehrere Sprachen auf einmal miteinander verglichen
 -------
 (5) [K32]
-     >< [K13]
-
-
-<keine Kognate von Proto-World>
-
-(1) [P18]: Ca. 10'000 Jahre nach der Abspaltung einer Tochtersprache von der Proto-Sprache gibt es keine erkennbaren Kognate mehr in den Tochtersprachen (vgl. Millar 2015: S. 195)
-(2) P2: Die Tochtersprachen von Proto-World haben sich vor mehr als 14'000 Jahren abgespalten (vgl. Campbell & Poser 2008: S. 386–387)
------
-(3) [K29]: Heute attestierte Sprachen enthalten keine erkennbaren Kognate von Proto-World
-
-
-<vergleichende Methode nicht für Proto-World anwendbar>
-
-(1) [P17]: Die komparative Methode arbeitet mit Kognaten
-(2) [K29]
----------
-(3) [K30]: Die komparative Methode kann nicht zur Rekonstruktion von Proto-World verwendet werden
-     >< [K7]
-
-
-<zeitliche Obergrenze der vergleichenden Methode>
-
-(1) [P17]
-(2) [P18]
-----------
-(3) [K31]: Die komparative Methode hat eine zeitliche Obergrenze
      >< [K7]
