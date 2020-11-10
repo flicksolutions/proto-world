@@ -13,7 +13,7 @@ Dabei wurden einige Argumente der Kritiker nicht in die Karte aufgenommen und we
 
 Wenn man sich nun die Karte ansieht, kann man erkennen, dass es drei grössere Gruppen von Argumenten gibt: (a) die Gruppe von Argumenten, welche zur Konklusion des gemeinsamen Ursprungs aller heute attestierten Sprachen hinführen (aus dieser Konklusion folgt dann weiter, dass Sprache durch Monogenese entstanden ist), (b) die Gruppe von Argumenten, welche zeigen sollen, dass die verwendete Methodologie in Ordnung ist und (c) die Gruppe von Argumenten, welche aufzeigen sollen, dass multilaterale Vergleiche genealogische Verwandtschaft zwischen Sprachen beweisen können. Es ist auch gut erkennbar, in welchen Bereichen die Argumentation besonders verstrickt ist: im Bereich der Wahrscheinlichkeit für zufällige Ähnlichkeiten und im Beriech der Anwendbarkeit der komparativen Methode.
 
-[Hier geht es zur Rekonstruktion der Argumente](https://saraschindler.github.io/proto-world/html/Argdown.html#argument-gemeinsamer-ursprung-aller-sprachen)
+[Hier geht es zur Rekonstruktion der Argumente](https://saraschindler.github.io/proto-world/html/Argdown.html)
 
 [Hier geht es zur Argumentkarte](https://saraschindler.github.io/proto-world/html/Argdown.component.html)
 
