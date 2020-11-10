@@ -5,7 +5,7 @@ Seit dem 17. Jahrhundert, als Marcus Zuerius van Boxhorn, ein niederländischer 
 Die Argumentkarte enthält verschiedene Elemente: 
 1. Grüne Kästchen: dies ist der Name, den ich dem jeweiligen Argument gegeben habe
 2. Weisse Kästchen: dies sind die Konklusionen aus den jeweiligen Argumenten
-3. Grüne Pfeile: grüne Pfeile stellen eine stützenden Beziehung dar, z.B. A  B bedeutet Argu-ment A stützt Argument B, oder Argument B beruht auf Argument A
+3. Grüne Pfeile: grüne Pfeile stellen eine stützenden Beziehung dar, z.B. A > B bedeutet *Argu-ment A stützt Argument B*, oder *Argument B beruht auf Argument A*
 4. Rote Pfeile: rote Pfeile zeigen an, dass ein Argument ein anderes angreift und nicht beide zu-gleich wahr sein können, d.h. wenn Argument A wahr ist, muss Argument B falsch sein, wenn Argument B wahr ist, muss Argument A falsch sein. Es ist aber auch möglich, dass beide Ar-gumente falsch sind.
 5. Rote Doppelpfeile: Auch rote Doppelpfeile zeigen an, dass sich zwei Argumenten angreifen, aber nun muss eines der beiden Argumente wahr sein (d.h. anders als bei roten Pfeilen können nicht beide falsch sein) und das andere muss dann falsch sein. Die beiden Argumente müssen immer gegenteilige Wahrheitswerte haben. 
 
